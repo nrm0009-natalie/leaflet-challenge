@@ -1,6 +1,6 @@
 # Leaflet Challenge - Visualizing Earthquake Data with Leaflet
 
-The goal of this project was to present an interactive map visualization of United States Geological Survey (USGS) earthquake data within a web page. The baseline data covered the time span of a week - January 14, 2020 to January 20, 2020 - and was provided in GeoJSON format. Leaflet was utilized within JavaScript to import and process the data, as well as generating the required visualization.
+The goal of this project was to present an interactive map visualization of earthquake data from the United States Geological Survey (USGS) within a web page. The baseline data covered the time span of a week - January 14, 2020 to January 20, 2020 - and was provided in GeoJSON format. Leaflet was utilized within JavaScript to import and process the data, as well as generating the required visualization.
 
 ## Assignment:
 
@@ -21,4 +21,4 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
 ## Visualization
 
-![Earthquake-Visualization] (image_of_map.png)
+![Earthquake-Visualization] (/image_of_map.png?raw=true "Earthquake-Visualization")
