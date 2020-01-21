@@ -21,4 +21,8 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
 ## Visualization
 
-![Earthquake-Visualization] (/image_of_map.png?raw=true "Earthquake-Visualization")
+![Earthquake-Visualization] (image_of_map.png)
+
+## WebPage
+
+https://nrm0009-natalie.github.io/leaflet-challenge/
